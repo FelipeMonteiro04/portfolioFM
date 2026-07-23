@@ -93,14 +93,11 @@ function App() {
           Computer Science & Engineering Student | Full-Stack Developer
         </p>
         <div style={{ display: 'flex', gap: '1.2rem', flexWrap: 'wrap', fontSize: '0.95rem' }}>
-          <a href="https://linkedin.com/in/felipe-monteiro-1a89082a5" target="_blank" rel="noreferrer" style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
+          <a href="https://www.linkedin.com/in/felipe-monteiro-9b4946316" target="_blank" rel="noreferrer" style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
             LinkedIn
           </a>
           <a href="https://github.com/FelipeMonteiro04" target="_blank" rel="noreferrer" style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
             GitHub
-          </a>
-          <a href="mailto:felipe12monteiro@gmail.com" style={{ color: '#0066cc', textDecoration: 'none', fontWeight: '500' }}>
-            felipe12monteiro@gmail.com
           </a>
           <span style={{ color: '#666' }}>📍 Praia, Cape Verde</span>
         </div>
